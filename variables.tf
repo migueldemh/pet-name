@@ -1,6 +1,6 @@
 variable "pet_length"{
 type = number
-default =3
+default =5
 }
 
 variable "pet_separator"{
